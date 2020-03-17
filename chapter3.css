@@ -1,38 +1,13 @@
 .box1 {
-	width: 300px;
-	height: 300px;
-	background-color: red;
+  width: 300px;
+  height: 300px;
+  background-color: #008000;
+  padding: 30px;
 }
-
 .box2 {
-	width: 200px;
-	height: 200px;
-	background-color: blue;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px solid yellow;
 }
-.box3 {
-	width: 100px;
-	height: 100px;
-	background-color: green;
-}
-
-.box4 {
-	width: 300px;
-	height: 300px;
-	background-color: red;
-	padding: 5px 30px;
-	margin: 10px 20px;
-	border: 3px dotted yellow ;
-}
-
-.box5 {
-	width: 200px;
-	height: 200px;
-	background-color: blue;
-}
-.box6 {
-	width: 100px;
-	height: 100px;
-	background-color: green;
-}
-
-/*git commit -m "[Finish]1-3"*/
+/*git commit -m "[Fix]1-3"*/
